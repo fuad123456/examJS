@@ -1,0 +1,57 @@
+
+.progress{
+	display: flex;
+	gap: 5px;
+}
+.progress-item{
+	width: 100%;
+	min-width: 30px;
+	height: 15px;
+}
+.question-item{
+	font-size: 32px;
+	font-weight: 600;
+	color: rgb(4, 19, 68);
+}
+.gap2{
+	gap: 12px;
+}
+.df{
+	display: flex;
+
+}
+.fdc{
+	flex-direction: column;
+}
+.mr20{
+	margin-right: 20px;
+}
+.jcsb{
+	justify-content: space-between;
+}
+.timer{
+	font-size: 28px;
+	color: rgb(224, 108, 108);
+}
+.w100{
+	width: 100%;
+}
+.container{
+	width: 1400px;
+	margin: 0 auto;
+}
+.bgcb{
+	background-color: rgb(86, 86, 175);
+}
+.bgcr{
+	background-color: rgb(220, 112, 117);
+}
+.bgcgr{
+	background-color: rgb(172, 172, 173);
+}
+.fs16{
+	font-size: 16px;
+}
+.fs16 .ant-checkbox-wrapper.ant-checkbox-wrapper-in-form-item {
+	font-size: 16px !important;
+}
